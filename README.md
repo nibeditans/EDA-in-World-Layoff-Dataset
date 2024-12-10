@@ -3,6 +3,8 @@
 ## Overview
 This repository contains SQL queries and scripts for performing exploratory data analysis (EDA) on a dataset of company layoffs. The analysis includes calculations of various metrics, aggregation of data by different dimensions, and identification of trends over time.
 
+You can check out the complete article on this this Project: [EDA in Layoff Dataset — Part 2](https://nsworldinfo.medium.com/eda-in-layoff-dataset-part-2-dcc866041ebd)
+
 ## Dataset
 we've already performed some data cleaning in our world_layoffs dataset before. 
 
